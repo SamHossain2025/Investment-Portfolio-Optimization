@@ -50,7 +50,10 @@ Rank stocks based on predicted 3-month forward returns using firm fundamentals a
 * PCA-based dimensionality reduction (31 financial ratios → 10 components)
 
 <p align="center">
-  <img src="6 Assets/Data1.png" width="80%">
+  <img src="6 Assets/Model1.png" width="80%">
+  <img src="6 Assets/Model2.png" width="80%">
+  <img src="6 Assets/Model3.png" width="80%">
+  <img src="6 Assets/Model4.png" width="80%">
 </p>
 
 ### 🤖 Models Built
@@ -66,10 +69,6 @@ Rank stocks based on predicted 3-month forward returns using firm fundamentals a
 **✨ Verdict:** Model 6 (Random Forest) offers the best performance on binary classification, while Model 3 (RollingOLS Double-scaled) is optimal for regression-based portfolio ranking.
 
 <p align="center">
-  <img src="6 Assets/Model1.png" width="80%">
-  <img src="6 Assets/Model2.png" width="80%">
-  <img src="6 Assets/Model3.png" width="80%">
-  <img src="6 Assets/Model4.png" width="80%">
   <img src="6 Assets/Model5.png" width="80%">
   <img src="6 Assets/Model6.png" width="80%">
   <img src="6 Assets/Model7.png" width="80%">
