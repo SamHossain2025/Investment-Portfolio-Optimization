@@ -16,7 +16,7 @@
   * **Construct and evaluate top-performing portfolios**
 
 <p align="center">
-  <img src="6 Assets/QUAAF AUM.jpg" width="80%">
+  <img src="6 Assets/QUAAF AUM1.jpg" width="80%">
 </p>
 
 ---
